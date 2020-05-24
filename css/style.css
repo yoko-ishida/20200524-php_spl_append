@@ -1,0 +1,14 @@
+﻿@charaset "UTF-8";
+
+
+ul {
+    list-style-type: none;
+}
+	
+li span{
+display:block;
+	width:12.5rem;
+	border: 1px solid #ccc;
+	background: #eee;
+	margin-bottom: 0.3rem;
+} 
